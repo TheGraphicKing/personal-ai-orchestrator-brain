@@ -13,7 +13,7 @@ import ctypes # For low-level Windows API calls
 
 # --- Configuration ---
 # REPLACE THIS WITH YOUR REPLIT URL FROM COLAB
-CLOUD_BRAIN_URL = "https://mvp.navaneethakris5.repl.co" # Example: "https://mvp.navaneethakris5.repl.co"
+CLOUD_BRAIN_URL = "https://personal-ai-orchestrator-brain.onrender.com" # Example: "https://mvp.navaneethakris5.repl.co"
 USER_ID = "your_unique_user_id" # A simple ID to differentiate users in the Cloud Brain's memory
 
 # --- Initialize Speech Recognition and Text-to-Speech Engines ---
